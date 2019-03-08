@@ -32,3 +32,6 @@ More requirements:
 ### Mocking
 
 - https://relishapp.com/rspec/rspec-mocks/docs/basics/test-doubles
+
+### Steps to complete this task
+- https://docs.google.com/spreadsheets/d/1LlM-gS2PZUeJUiom-t_K9yfUHptycdq2msHwnZE7ahQ/edit?usp=sharing
